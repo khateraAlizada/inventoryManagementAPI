@@ -1,0 +1,6 @@
+{
+    "host"     : "database-3.clalmmohuezo.us-east-1.rds.amazonaws.com",
+    "user"     : "admin",
+    "password" : "password",
+    "database" : "info"
+}

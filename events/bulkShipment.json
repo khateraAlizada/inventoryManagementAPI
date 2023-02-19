@@ -1,0 +1,3 @@
+{
+  "body": "{\n \"storeID\" : \"9\",   \"shipment\": [{\n     \"sku\": \"WA12345\",\n      \"quantity\": \"65\" } ,    {\n    \"sku\": \"PI12345\",\n      \"quantity\": \"11\"   } ]\n  }"
+}
